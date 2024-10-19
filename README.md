@@ -27,8 +27,9 @@ To run the project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/utube-clone.git
-```
 
+
+## Images
 ![image](https://github.com/user-attachments/assets/64a9bfa6-9735-48cb-a0be-5fe0747a0d80)
 
 ![image](https://github.com/user-attachments/assets/e3f3adef-bbfc-4bc7-b0a8-eecbeb779e6f)

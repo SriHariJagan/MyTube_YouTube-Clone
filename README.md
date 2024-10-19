@@ -34,13 +34,13 @@ To run the project locally, follow these steps:
 
 ![image](https://github.com/user-attachments/assets/64a9bfa6-9735-48cb-a0be-5fe0747a0d80)
 
-<br />
-<br />
+<br>
+<br>
 
 ![image](https://github.com/user-attachments/assets/e3f3adef-bbfc-4bc7-b0a8-eecbeb779e6f)
 
-<br />
-<br />
+<br>
+<br>
 
 
 ![image](https://github.com/user-attachments/assets/68501294-fade-46ea-8511-95aaed021a44)

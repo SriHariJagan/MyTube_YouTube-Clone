@@ -1,4 +1,4 @@
-# [YouTube Clone] (https://vidtube-utubeclone.netlify.app/)
+# YouTube Clone
 
 A simple video streaming application inspired by YouTube, built entirely with [React](https://reactjs.org/). It allows users to explore and watch videos seamlessly without a backend.
 
@@ -11,7 +11,7 @@ A simple video streaming application inspired by YouTube, built entirely with [R
 
 ## Live Demo
 
-You can view a live demo of the application [here](https://your-live-demo-link.com).
+You can view a live demo of the application [here](https://vidtube-utubeclone.netlify.app/).
 
 ## Technologies Used
 

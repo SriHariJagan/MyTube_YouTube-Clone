@@ -1,6 +1,6 @@
 # YouTube Clone
 
-A simple video streaming application inspired by YouTube, built entirely with [React](https://reactjs.org/). UTube allows users to explore and watch videos seamlessly without a backend.
+A simple video streaming application inspired by YouTube, built entirely with [React](https://reactjs.org/). It allows users to explore and watch videos seamlessly without a backend.
 
 ## Features
 

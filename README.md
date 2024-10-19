@@ -1,8 +1,29 @@
-# React + Vite
+# YouTube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple video streaming application inspired by YouTube, built entirely with [React](https://reactjs.org/). UTube allows users to explore and watch videos seamlessly without a backend.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Design**: Fully optimized for desktop and mobile devices.
+- **Video List**: Browse a list of available videos.
+- **Search Functionality**: Search for videos by title or keyword.
+- **Watch Videos**: View videos in a dedicated player.
+
+## Live Demo
+
+You can view a live demo of the application [here](https://your-live-demo-link.com).
+
+## Technologies Used
+
+- **Frontend**: 
+  - React
+  - React Router for navigation
+  - CSS Modules for styles
+
+## Installation
+
+To run the project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/utube-clone.git

@@ -1,0 +1,36 @@
+.recomended{
+    flex-basis: 30%;
+}
+
+.sideVideoList{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.sideVideoList img{
+    flex-basis: 49%;
+    width: 50%;
+}
+
+.videoInfo{
+    flex-basis: 49%;
+}
+
+.videoInfo h4{
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.videoInfo p{
+    margin: 2px 0;
+}
+
+
+@media (max-width:900px) {
+    .recomended{
+        flex-basis: 100%;
+    }
+}

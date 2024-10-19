@@ -1,0 +1,62 @@
+.title{
+  margin: 15px 0;
+  text-align: center;
+}
+
+.resultsContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    margin-top: 15px;
+    grid-column-gap: 16px;
+    grid-row-gap: 32px;
+
+    padding: 10px;
+}
+
+
+.resultCard img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.info {
+  padding: 10px; /* Add some padding around text */
+}
+
+.info h3 {
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    margin: 5px 0;
+}
+
+.info p {
+  font-size: 14px; /* Use consistent font size for channel and time */
+  color: #555; /* Slightly lighter color for description */
+  margin: 4px 0; /* Add margin for spacing */
+}
+
+/* Loading and error styles */
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.loading {
+  font-size: 16px;
+  color: #999;
+}
+
+@media (max-width: 900px){
+  .title{
+    font-size: 14px;
+  }
+  .title h2{
+    font-size: 16px;
+    text-transform: capitalize;
+  }
+  .resultsContainer {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}
